@@ -5216,8 +5216,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 102,
-          "y": 62,
+          "x": 72,
+          "y": -97,
           "id": 530
         },
         {
@@ -5230,8 +5230,8 @@
           "name": "Accretion",
           "iconId": 215906,
           "maxStacks": 0,
-          "x": 157,
-          "y": 62,
+          "x": 83,
+          "y": -60,
           "id": 531
         },
         {
@@ -5244,8 +5244,8 @@
           "name": "First in Line",
           "iconId": 215401,
           "maxStacks": 0,
-          "x": 132,
-          "y": 62,
+          "x": 58,
+          "y": -60,
           "id": 532
         },
         {
@@ -9183,15 +9183,15 @@
           "id": 887
         },
         {
+          "stroke": "#40352c",
+          "style": "outline",
           "type": "text",
           "align": "center",
           "fontSize": 25,
           "color": "#ffffff",
           "opacity": 100,
-          "style": "outline",
           "rotation": 0,
           "text": "dps 1:\nsupp 1:\n\ndps 2:\nsupp 2:\n\ndps 3:\nsupp 3:\n\naccretion 1:\naccretion 2:",
-          "stroke": "#40352c",
           "x": -341,
           "y": 237,
           "id": 1058
